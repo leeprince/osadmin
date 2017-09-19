@@ -1,0 +1,2 @@
+2017-09-19 10:17:45 +0800 [  1  ] [  SQL  ]: [ ["42S22",1054,"Unknown column 'area_idd' in 'field list'"] ] : UPDATE jgx_area_list SET area_idd = '9',addr = '儋州嘻',description = '儋州西站1' WHERE id = '8'
+2017-09-19 10:18:58 +0800 [  1  ] [  SQL  ]: [ ["42S22",1054,"Unknown column 'area_idd' in 'field list'"] ] : UPDATE jgx_area_list SET area_idd = '9',addr = '儋州嘻嘻嘻嘻',description = '儋州西站1' WHERE id = '8'

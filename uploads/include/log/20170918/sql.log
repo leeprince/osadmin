@@ -1,0 +1,2 @@
+2017-09-18 20:48:04 +0800 [  1  ] [  SQL  ]: UPDATE jgx_area_list SET area_id = '9',addr = '儋州东站站站站',description = '儋州西站1' WHERE id = '8'
+2017-09-18 20:50:58 +0800 [  1  ] [  SQL  ]: [ leeprince  ] : UPDATE jgx_area_list SET area_id = '9',addr = '儋州嘻嘻嘻嘻',description = '儋州西站1' WHERE id = '8'
